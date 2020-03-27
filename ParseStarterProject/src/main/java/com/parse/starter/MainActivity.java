@@ -7,6 +7,7 @@
  * of patent rights can be found in the PATENTS file in the same directory.
  */
 package com.parse.starter;
+
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
@@ -136,6 +137,9 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
       Log.i("xxx", ParseUser.getCurrentUser().toString());
       showType();
     }
+
+//    ParseUser user = new ParseUser();
+//    user.put("gmae name","chess");
 
     ParseAnalytics.trackAppOpenedInBackground(getIntent());
   }

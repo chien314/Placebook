@@ -45,6 +45,28 @@
             ]
         },
         {
+            "outputFile": "/Users/eclipse/Dropbox/Zebrai/Headquater/App/Android/Udemy-Rob3/08.07-keyboard-PB0/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ky-rKG/values-ky-rKG.xml",
+            "map": [
+                {
+                    "source": "/Users/eclipse/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-23.0.0.aar/ed0478b65ca0f9e4fd13540bc0c52111/res/values-ky-rKG/values-ky-rKG.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "282,395,509,613,716,834,933,1030,1151,1270,1356",
+                        "endColumns": "112,113,103,102,117,98,96,120,118,85,95",
+                        "endOffsets": "390,504,608,711,829,928,1025,1146,1265,1351,1447"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,168,282,386,489,607,706,803,924,1043,1129",
+                        "endColumns": "112,113,103,102,117,98,96,120,118,85,95",
+                        "endOffsets": "163,277,381,484,602,701,798,919,1038,1124,1220"
+                    }
+                }
+            ]
+        },
+        {
             "outputFile": "/Users/eclipse/Dropbox/Zebrai/Headquater/App/Android/Udemy-Rob3/08.07-keyboard/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ky-rKG/values-ky-rKG.xml",
             "map": [
                 {

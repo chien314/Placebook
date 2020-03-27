@@ -23,6 +23,28 @@
             ]
         },
         {
+            "outputFile": "/Users/eclipse/Dropbox/Zebrai/Headquater/App/Android/Udemy-Rob3/08.07-keyboard-PB0/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rCA/values-en-rCA.xml",
+            "map": [
+                {
+                    "source": "/Users/eclipse/.gradle/caches/transforms-1/files-1.1/play-services-wallet-9.4.0.aar/a97337847b9a6def4d0cba66058c79a4/res/values-en-rCA/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "292",
+                        "endColumns": "103",
+                        "endOffsets": "391"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "103",
+                        "endOffsets": "154"
+                    }
+                }
+            ]
+        },
+        {
             "outputFile": "/Users/zappycode/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rCA/values-en-rCA.xml",
             "map": [
                 {

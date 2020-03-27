@@ -13,7 +13,6 @@ import android.app.Application;
 import com.parse.Parse;
 import com.parse.ParseACL;
 
-
 public class StarterApplication extends Application {
 
   @Override
@@ -33,9 +32,22 @@ public class StarterApplication extends Application {
             .build()
     );
 
-
-
-    //ParseUser.enableAutomaticUser();
+//    ParseObject object = new ParseObject("ExampleObject1");
+//    object.put("myNumber1", "1234");
+//    object.put("myString1", "rob1");
+//
+//    object.saveInBackground(new SaveCallback() {
+//      @Override
+//      public void done(ParseException ex) {
+//        if (ex == null) {
+//          Log.i("Parse Result", "Successful!");
+//        } else {
+//          Log.i("Parse Result", "Failed" + ex.toString());
+//        }
+//      }
+//    });
+//
+//    ParseUser.enableAutomaticUser();
 
     ParseACL defaultACL = new ParseACL();
     defaultACL.setPublicReadAccess(true);

@@ -154,9 +154,11 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
        // TypeActivity.arrayAdapter.notifyDataSetChanged();
 
 
-        Toast.makeText(this,"Location Saved!",Toast.LENGTH_SHORT).show();
+        Toast.makeText(this,"Creating a location!",Toast.LENGTH_SHORT).show();
 
         Intent intent = new Intent(getApplicationContext(), TypeActivity.class);
         startActivity(intent);
+
+
     }
 }

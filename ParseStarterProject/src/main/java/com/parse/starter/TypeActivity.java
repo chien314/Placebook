@@ -59,6 +59,11 @@ public class TypeActivity extends AppCompatActivity {
 //        startActivity(intent);
 //    }
 
+    public void callButton3 (View view){
+        Intent intent = new Intent(getApplicationContext(), Button1Activity.class);
+        startActivity(intent);
+    }
+
     public void callButton4 (View view){
         finish();
     }
