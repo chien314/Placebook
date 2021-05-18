@@ -1,0 +1,10 @@
+#Fri Mar 27 16:07:39 CDT 2020
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.2=/Users/eclipse/Dropbox/Zebrai/Headquater/App/Android/Udemy-Rob3/08.07-keyboard-PB0/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dexMerger/debug/10
+base.1=/Users/eclipse/Dropbox/Zebrai/Headquater/App/Android/Udemy-Rob3/08.07-keyboard-PB0/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dexMerger/debug/20
+base.0=/Users/eclipse/Dropbox/Zebrai/Headquater/App/Android/Udemy-Rob3/08.07-keyboard-PB0/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dexMerger/debug/10
+file.2=/Users/eclipse/Dropbox/Zebrai/Headquater/App/Android/Udemy-Rob3/08.07-keyboard-PB0/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dexMerger/debug/10/classes2.dex
+file.1=/Users/eclipse/Dropbox/Zebrai/Headquater/App/Android/Udemy-Rob3/08.07-keyboard-PB0/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dexMerger/debug/20/classes.dex
+file.0=/Users/eclipse/Dropbox/Zebrai/Headquater/App/Android/Udemy-Rob3/08.07-keyboard-PB0/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dexMerger/debug/10/classes.dex
